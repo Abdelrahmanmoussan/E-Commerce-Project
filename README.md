@@ -33,22 +33,16 @@ End-to-end testing can be set up using tools like **Selenium** or **Playwright**
 ```sh
 git clone https://github.com/Abdelrahmanmoussan/E-Commerce-Project.git
 2. Navigate to the Project Directory
-sh
-Copy
-Edit
+
 cd E-Commerce-Project
 3. Configure the Database
 Update appsettings.json with your database connection string.
 Run database migrations (if applicable).
 4. Restore Dependencies
-sh
-Copy
-Edit
+
 dotnet restore
 5. Build and Run the Project
-sh
-Copy
-Edit
+
 dotnet build
 dotnet run
 6. Access the Application
@@ -57,9 +51,7 @@ Open your browser and go to: http://localhost:5000/
 Further Help
 For more information about .NET CLI commands, use:
 
-sh
-Copy
-Edit
+
 dotnet --help
 Or check out the official .NET Documentation.
 
@@ -69,9 +61,6 @@ This project is licensed under the MIT License.
 Contact
 For any inquiries, contact Abdelrahman Mohamed Moussan via GitHub.
 
-pgsql
-Copy
-Edit
 
 This version keeps it **clean, structured, and professional**, similar to the **Angular-E-Commerce** README format. Let me know if you want any modifications!
 ```
